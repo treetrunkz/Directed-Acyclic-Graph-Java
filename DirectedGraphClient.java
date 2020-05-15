@@ -12,5 +12,3 @@ public class DirectedGraphClient {
     DirectedGraphTester.TestClient4();
 }
 }
-
-XXXaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa                                                                                                                                                                                                                                                                                                                                         
