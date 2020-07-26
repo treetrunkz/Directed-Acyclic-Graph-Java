@@ -156,9 +156,11 @@ public void instantiateGraph(String[] array) {
       }
    //topological sort, empty nodes are in front unless dependency weight exists  
 try { topologicalSort(); } 
+
 catch (Exception e) { e.printStackTrace(); }
+
 for (Node node : topoSorted) {
-   Stack<String> stk = new Stack<String>();
+   //Stack<String> stk = new Stack<String>();
    stk.push(node.value);
    }
    while(!stk.isEmpty()){
